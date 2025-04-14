@@ -34,24 +34,6 @@ item:
     url: ''
     
   - certificate_url: ''
-    date_end: ''
-    date_start: '2023-03-15'
-    description: ''
-    organization: FulMed.org
-    #organization_url: https://www.coursera.org
-    title: Medical School funding scholarship
-    url: ''
-
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2022-11-15'
-    description: ''
-    organization: FulMed.org
-    #organization_url: https://www.coursera.org
-    title: Premed Award
-    url: ''
-    
-  - certificate_url: ''
     date_end: '2022-12-31'
     date_start: '2021-07-01'
     description: Project-Data-driven groundwater depth and risk forecasting in the Central Sands region of WI for sustainable management
